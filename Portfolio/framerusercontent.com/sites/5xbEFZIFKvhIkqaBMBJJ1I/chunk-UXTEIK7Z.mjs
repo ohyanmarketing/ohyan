@@ -1,0 +1,2 @@
+var a=e=>({bodyClassName:"framer-body-KBlFSas6i",breakpoints:[{hash:"1uesjik",mediaQuery:"(min-width: 1200px)"},{hash:"1uimbm9",mediaQuery:"(min-width: 810px) and (max-width: 1199px)"},{hash:"18x11z6",mediaQuery:"(max-width: 809px)"}],elements:{},robots:"noindex",title:"404",viewport:"width=device-width"}),o=a,n=1,d={exports:{default:{type:"variable",annotations:{framerContractVersion:"1"}},metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{o as a,n as b,d as c};
+//# sourceMappingURL=chunk-UXTEIK7Z.mjs.map
